@@ -1,2 +1,3 @@
-# quotes
-Simple web page that shows a random quote
+# Fuzzy Telegram
+*A simple vanilla PHP web application displaying random quote of the day.*
+
